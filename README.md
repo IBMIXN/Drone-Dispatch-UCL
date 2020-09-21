@@ -7,5 +7,7 @@ An assumption is made that the user knows how to use Node-RED and can add to the
 
 BMI hospital to Mile End hospital was chosen as a pre-set flight plan due to the short distance between the two hospitals within the London area. Theoretically, with no wind the Tello EDU could make the distance with a battery life of 13mins flying at 1 m/sec for a distance of 676m (calculated by traingualte the distance using google maps). The drone lacks GPS therefore, the drone would have to be pointed in the direction of the final location.
 
-Below is a link to some of the tests conducted on the Tello EDU 
+Here is a link to some of the tests conducted on the Tello EDU 
+
+
 https://www.youtube.com/playlist?list=PL3Hm8GuLnKhKm2M5MGxroyweX3-L71V3f
